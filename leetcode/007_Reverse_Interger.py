@@ -15,4 +15,3 @@ class Solution:
         elif flag == -1 and -r >= -2147483647:
             return -r
         return 0
-

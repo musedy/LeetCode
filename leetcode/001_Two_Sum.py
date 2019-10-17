@@ -16,3 +16,4 @@ class Solution:
                 begin += 1
             else:
                 end -= 1
+                

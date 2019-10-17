@@ -12,3 +12,4 @@ class Solution(object):
             else:
                 sum += digits[s[i]]
         return sum
+        

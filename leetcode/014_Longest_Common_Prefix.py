@@ -10,4 +10,4 @@ class Solution(object):
             for word in strs:
                 if word[i] != j:
                     return prefix[:i]
-        return 
+        return prefix

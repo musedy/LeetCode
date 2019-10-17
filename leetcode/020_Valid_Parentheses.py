@@ -13,3 +13,4 @@ class Solution:
             else:
                 p.append(i)
         return len(p) == 1
+        
